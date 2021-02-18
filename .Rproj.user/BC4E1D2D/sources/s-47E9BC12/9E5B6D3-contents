@@ -1,0 +1,6 @@
+cd ~/dir/name/of/path/to/file
+
+
+git init
+
+git add .
